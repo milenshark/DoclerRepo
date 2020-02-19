@@ -26,5 +26,5 @@ Steps to start the tests:
 
 Please contact me if there are questions.
 
-Best Regards,
+Best Regards,\
 Milen
