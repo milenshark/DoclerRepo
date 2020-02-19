@@ -19,3 +19,9 @@ Steps to start the tests:
  + Rebuild Solution
  + Enable Test Explorer via Test Menu -> Windows -> Test Explorer.
  + Click on the Run All button.
+
+
+Please contact me if there are questions.
+
+Best Regards,
+Milen
