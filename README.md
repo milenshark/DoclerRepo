@@ -14,8 +14,8 @@ Stuff needed:
 - Visual Studio Extensions: NUnit 3 Test Adapter and Specflow for Visual Studio
 
 Steps to start the tests:
- > Clone or download the repository.
- > Restore Nuget Packages for solution.
- > Rebuild Solution
- > Enable Test Explorer via Test Menu -> Windows -> Test Explorer.
- > Click on the Run All button.
+ + Clone or download the repository.
+ + Restore Nuget Packages for solution.
+ + Rebuild Solution
+ + Enable Test Explorer via Test Menu -> Windows -> Test Explorer.
+ + Click on the Run All button.
